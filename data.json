@@ -1,0 +1,27 @@
+{
+    "courses": [{
+            "id": 1,
+            "title": "NodeJS Course",
+            "description": "Course with Nodejs and Js",
+            "author": "Mario",
+            "topic": "JavaScript",
+            "url": "www.google.com"
+        },
+        {
+            "id": 2,
+            "title": "Rust Course",
+            "author": "Mario",
+            "description": "Course with Rust",
+            "topic": "Rust",
+            "url": "www.google.com"
+        },
+        {
+            "id": 3,
+            "title": "Redux",
+            "author": "Mario",
+            "description": "Course with Js",
+            "topic": "JavaScript",
+            "url": "www.google.com"
+        }
+    ]
+}
